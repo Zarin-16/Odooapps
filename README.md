@@ -1,0 +1,2 @@
+# Odooapps
+School Management System
