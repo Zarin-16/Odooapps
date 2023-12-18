@@ -2,7 +2,7 @@
 
 {
     'name': 'bdtask School Management System',
-    'version': '15.0',
+    'version': '15.0.0.1',
     'summary': 'School Management System',
     'description': ' School Management System',
     'category': ' School management system',
@@ -25,7 +25,7 @@
     # 'reports/teacher_card.xml',
     # 'reports/teacher_summary.xml',
     ],
-    
+    'images': ["static/description/banner.png"],
     'license': 'LGPL-3',
     'installable': True,
     'auto_install': False,
