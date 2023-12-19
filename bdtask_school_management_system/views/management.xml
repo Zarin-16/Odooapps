@@ -51,7 +51,7 @@
 
 
     <record id="management_action" model="ir.actions.act_window">
-        <field name="name">School Management</field>
+        <field name="name">Admin</field>
         <field name="res_model">management.management</field>
         <field name="view_mode">tree,form</field>
     </record>
