@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': 'bdtask School Management System',
+    'name': 'Core Banking System',
     'version': '15.0.0.6',
     'summary': 'School Management System',
     'description': ' School Management System',
