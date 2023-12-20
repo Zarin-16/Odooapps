@@ -2,7 +2,7 @@
 
 {
     'name': 'bdtask School Management System',
-    'version': '15.0.0.5',
+    'version': '15.0.0.6',
     'summary': 'School Management System',
     'description': ' School Management System',
     'category': ' School management system',
